@@ -6,5 +6,10 @@
     "minards-map.md",
     "minards-points.md",
     "bart-strike.md",
-    "d3.md"
+    "d3.md",
+    "not-a-chart-library.md",
+    "data-binding.md",
+    "data-binding-again.md",
+    "enter-exit-update.md",
+    "exit.md"
 ]
