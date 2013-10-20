@@ -2,6 +2,12 @@
     "index.md",
     "welcome.md",
     "drawing-data.md",
+    [
+      "why.md",
+      "pinwheel-of-obscurity.md",
+      "map-of-wtf.md",
+      "obvious-correlation.md"
+    ],
     "intuitive-communication.md",
     "minards-map.md",
     "minards-points.md",
