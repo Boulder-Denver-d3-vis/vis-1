@@ -1,7 +1,9 @@
 [
     "index.md",
     "welcome.md",
+    "the-meetup.md",
     "drawing-data.md",
+    "the-brain.md",
     [
       "why.md",
       "pinwheel-of-obscurity.md",
@@ -13,6 +15,7 @@
     "minards-points.md",
     "bart-strike.md",
     "d3.md",
+    "d3-is-big.md",
     "not-a-chart-library.md",
     "data-binding.md",
     "data-binding-again.md",

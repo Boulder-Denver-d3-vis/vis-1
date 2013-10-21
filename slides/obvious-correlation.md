@@ -1,4 +1,4 @@
-## Obvious Correlation
+## Cause and Effect?
 
 ![ Of course ](/images/ie.jpg)
 
