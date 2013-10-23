@@ -1,10 +1,10 @@
 # Fundamental D3 Concepts
 
-*** 
+***
 
  * Data Binding
  * Enter, Exit, and Update sections
- * Function generators and callbacks
+ * Callbacks to set attributes and styles
 
 Note:
 Data binding - associating an array of data with an array of elements

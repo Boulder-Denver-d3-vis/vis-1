@@ -19,10 +19,13 @@
     "d3-is-big.md",
     "not-a-chart-library.md",
     "drawbacks.md",
-    "data-binding.md",
+    "fundamentals.md",
     "data-binding-again.md",
     "enter-exit-update.md",
     "exit.md",
     "an-example.md",
-    "okay-thats-boring.md"
+    "okay-thats-boring.md",
+    "not-quite-right.md",
+    "building-blocks.md",
+    "an-exercise.md"
 ]
