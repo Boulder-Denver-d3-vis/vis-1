@@ -2,7 +2,7 @@
 
 ***
 
-Edit the bar chart example:
+Edit the working bar chart example:
 
  * Make the color of each bar reflect its value
  * Make the color of each bar reflect its position in the data array
