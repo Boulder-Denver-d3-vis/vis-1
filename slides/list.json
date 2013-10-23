@@ -2,6 +2,7 @@
     "index.md",
     "welcome.md",
     "the-meetup.md",
+    "topics.md",
     "drawing-data.md",
     "the-brain.md",
     [
@@ -17,8 +18,11 @@
     "d3.md",
     "d3-is-big.md",
     "not-a-chart-library.md",
+    "drawbacks.md",
     "data-binding.md",
     "data-binding-again.md",
     "enter-exit-update.md",
-    "exit.md"
+    "exit.md",
+    "an-example.md",
+    "okay-thats-boring.md"
 ]
