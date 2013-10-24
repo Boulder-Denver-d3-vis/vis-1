@@ -7,6 +7,6 @@ Given an existing data binding, with elements created via `enter()`
 
 Tell D3 what to do when there's no data to be bound to an element:
 
-    s.data([]).exit().remove();
+    s.exit().remove();
 
 "If there's no data for an existing element, `remove()` it."
