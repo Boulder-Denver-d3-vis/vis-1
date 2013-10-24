@@ -1,7 +1,7 @@
 vis-1
 =====
 
-slides for denver/boulder d3/vis meetup
+Slides for the first Boulder/Denver d3 vis meetup!
 
 To run
 ======
