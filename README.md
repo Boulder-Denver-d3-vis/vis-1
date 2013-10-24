@@ -6,7 +6,7 @@ slides for denver/boulder d3/vis meetup
 To run
 ======
 
-Install (node)[http://nodejs.org].
+Install [node](http://nodejs.org).
 
 Clone this repository.
 
