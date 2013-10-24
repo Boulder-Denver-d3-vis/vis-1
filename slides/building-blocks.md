@@ -11,4 +11,5 @@ These techniques are used with d3 primitives like:
 
 ***
 
-They result in the beautiful, interactive vector displays you see in examples. The way the API gets used becomes more sophisticated, but these fundamentals are how they are implemented and used.
+They result in the beautiful, interactive vector displays you see in examples. The way the API gets used is more sophisticated, but these fundamentals are how they are implemented.
+

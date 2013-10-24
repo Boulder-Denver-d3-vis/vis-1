@@ -11,5 +11,5 @@ Edit the working bar chart example:
 
 If you already know how to do this, help the people near you.
 
-[ http://tributary.io/inlet/7112787 ]( http://tributary.io/inlet/7112787 )
+[http://tributary.io/inlet/7142407](http://tributary.io/inlet/7142407)
 
