@@ -6,4 +6,3 @@
  * Processing data
  * Design
  * Implementation 
- * Interaction
