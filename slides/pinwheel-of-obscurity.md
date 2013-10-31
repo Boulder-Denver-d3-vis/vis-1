@@ -1,3 +1,3 @@
 ##  Pinwheel of Obscurity
 
-![wow](/images/terrible_pie.png)
+![wow](images/terrible_pie.png)
