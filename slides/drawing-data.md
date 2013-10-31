@@ -2,7 +2,7 @@
 
 *** 
 
-![Playfair, 1786](/images/playfair.jpg)
+![Playfair, 1786](images/playfair.jpg)
 William Playfair, 1758
 
 Note:
