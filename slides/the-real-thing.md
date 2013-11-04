@@ -10,4 +10,4 @@ Here's what a bar chart looks like using more of D3's functionality.
 
  ***
 
- [ http://tributary.io/inlet/7142407 ]( http://tributary.io/inlet/714240 )
+ [ http://tributary.io/inlet/7142407 ]( http://tributary.io/inlet/7142407 )
